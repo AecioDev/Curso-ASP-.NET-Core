@@ -40,6 +40,8 @@ namespace Loja_Virtual_MVC
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
+
+            app.UseDefaultFiles();
             app.UseStaticFiles();
 
             app.UseRouting();

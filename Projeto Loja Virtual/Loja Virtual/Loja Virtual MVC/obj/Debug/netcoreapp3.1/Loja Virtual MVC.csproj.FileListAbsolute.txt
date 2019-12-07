@@ -8,28 +8,13 @@ E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtu
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\bin\Debug\netcoreapp3.1\Loja Virtual MVC.dll
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\bin\Debug\netcoreapp3.1\Loja Virtual MVC.pdb
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\bin\Debug\netcoreapp3.1\Loja Virtual MVC.Views.dll
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\bin\Debug\netcoreapp3.1\Loja Virtual MVC.Views.pdb
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.csprojAssemblyReference.cache
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\staticwebassets\Loja Virtual MVC.StaticWebAssets.Manifest.cache
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\staticwebassets\Loja Virtual MVC.StaticWebAssets.xml
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.MvcApplicationPartsAssemblyInfo.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.RazorAssemblyInfo.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.RazorAssemblyInfo.cs
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.AssemblyInfoInputs.cache
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.AssemblyInfo.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.TagHelpers.input.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.TagHelpers.output.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.RazorCoreGenerate.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.RazorTargetAssemblyInfo.cache
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.RazorTargetAssemblyInfo.cs
-E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.Views.pdb
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.dll
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.pdb
 E:\Projetos C#\Projetos 2020\Curso-ASP-.NET-Core\Projeto Loja Virtual\Loja Virtual\Loja Virtual MVC\obj\Debug\netcoreapp3.1\Loja Virtual MVC.csproj.CopyComplete
